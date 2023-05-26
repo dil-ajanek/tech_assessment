@@ -8,7 +8,7 @@ The backend may forward the query to an external api (if it doesn't have the ans
 Our subscription limits how many requests we are allowed to send to the 3rd party API. If that limit exceeded, we will be overcharged, so we build a server which only forward users request if the,
 query is not in its cache.
 
-n case of Ruby, some backend code stub already prepared in [lib/movies_client.rb](./lib/movies_client.rb) for the project.
+In case of Ruby, some backend code stub already prepared in [lib/movies_client.rb](./lib/movies_client.rb) for the project.
 While building the application, integrate this file in your solution and implement the core logic in it.
 
 # Requirements
