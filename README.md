@@ -1,5 +1,5 @@
 # Description:
-The task is to create a UI (be it either a pure rails view rendered from the backend, or any frontend rendered page) which has an input box and a search button.
+The task is to create a UI (whether it a backend or frontend rendered page) which has an input box and a search button.
 
 Upon pressing the button, it queries movies using the value of the input, using the backend you build.
 
