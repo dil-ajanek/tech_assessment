@@ -1,7 +1,7 @@
 # Description:
 The task is to create a UI (whether it a backend or frontend rendered page) which has an input box and a search button.
 
-Upon pressing the button, it queries movies using the value of the input, using the backend you build.
+Upon entering 3 or more characters or clicking on the search button, it queries movies using the value of the input, using the backend you build.
 
 The backend may forward the query to an external api (if it doesn't have the answer) and displays the results in a list.
 
@@ -15,8 +15,10 @@ While building the application, integrate this file in your solution and impleme
 - The backend is implemented in the preferred / determined language
 - Any datastore can be used (flat file, SQL, No-SQL, etc)
 - Access to the ["The Movie Database - registration required"](https://developers.themoviedb.org/3/search/search-movies)
+- In case of FE/Fullstack candidate - use React for the Front end.
 
 When you have finished your work, upload the code to any code hosting site (Bitbucket, Github, Gitlab, etc) and provide us with link.
+- making it public will help the assessment.
 
 Simpler is better! Focus on them problem add additional features only, if you sure it is a good fit.
 
@@ -59,7 +61,6 @@ The results should be paginated if more than 20 items returned by the query, oth
 ![Mockup](./tech_assessment_mockup.png)
 
 # Bonus
-- Nice UI
 - Give user feedback what's happening (progress indicators)
 - Handle errors between our and the remote API service (eg: the server cannot access the 3rd party API, because of network issues)
 - Write tests
