@@ -12,7 +12,7 @@ In case of Ruby, some backend code stub already prepared in [lib/movies_client.r
 While building the application, integrate this file in your solution and implement the core logic in it.
 
 # Requirements
-- The backend is implemented in the preferred / determined language
+- The backend is implemented in Typescript, runtime is Node.js.
 - Any datastore can be used (flat file, SQL, No-SQL, etc)
 - Access to the ["The Movie Database - registration required"](https://developers.themoviedb.org/3/search/search-movies)
 - In case of FE/Fullstack candidate - use React for the Front end.
@@ -20,7 +20,7 @@ While building the application, integrate this file in your solution and impleme
 When you have finished your work, upload the code to any code hosting site (Bitbucket, Github, Gitlab, etc) and provide us with link.
 - making it public will help the assessment.
 
-Simpler is better! Focus on them problem add additional features only, if you sure it is a good fit.
+Simpler is better! Focus on the problem add additional features only, if you sure it is a good fit.
 
 # High level workflow:
 
