@@ -12,7 +12,7 @@ In case of Ruby, some backend code stub already prepared in [lib/movies_client.r
 While building the application, integrate this file in your solution and implement the core logic in it.
 
 # Requirements
-- The backend is implemented in Typescript, runtime is Node.js.
+- The backend is implemented in Typescript, runtime is Node.js. Alternatively, Ruby-developer roles require Ruby as a backend. 
 - Any datastore can be used (flat file, SQL, No-SQL, etc)
 - Access to the ["The Movie Database - registration required"](https://developers.themoviedb.org/3/search/search-movies)
 - In case of FE/Fullstack candidate - use React for the Front end.
